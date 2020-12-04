@@ -13,6 +13,7 @@ Projekt je nastal zaradi potrebe po domačem domofonu. Trg ponuja sorazmerno sla
 
 ## REGISTRACIJA DELOVNEGA ČASA EVIDENTIK ##
 ![alt PHP](icons/php.png) ![alt RPI](icons/raspberry.png) ![alt WEBRTC](icons/lazarus.png)
+
 Projekt je izveden po naročilu stranke. Gre za celotno okolje za beleženje delovnega časa. 
 Registratorji so fizične konzole na osnovi RaspberryPi, ki pošiljajo podatke na strežnik, kjer PHP aplikacija upravlja z izračuni, prikazi, izpisi, obračuni za plače.
 Aplikacija na RPI je bila narejena v Lazarusu oz. FreePascalu, z možnost cross-platform compiliranja tudi na Windows, Android,...
