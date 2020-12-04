@@ -37,7 +37,7 @@ Dokumentno poslovanje vključuje skeniranje prejete pošte neposredno iz spletne
 
 
 ## PAMETNE ŽALUZIJE BLINDSBOARDv3 ##
-![alt Arduino](icons/arduino.png) ![alt Raspberry](icons/rpi.png) ![alt Raspberry](icons/homekit.png)
+![alt Arduino](icons/arduino.png) ![alt Raspberry](icons/raspberry.png) ![alt Raspberry](icons/homekit.png)
 
 Sistem za upravljanje domačih žaluzij je narejen na osnovi Arduino kontrolerja in lastne PCB plošče ter pameti za upravljanje.  
 Arduino preko serijskega vmesnika komunicira z RPI, kjer je postavljen Homebridge, ki služi za posrednika med Apple Homekit tehnologijo in HW.
