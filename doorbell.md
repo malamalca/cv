@@ -9,10 +9,11 @@ Izhodišča so bila naslednja:
 * zvonec v hiši in fizični gumb za odpiranje vrat (kjerkoli)
 
 
-| Tehnologija | Opis
------------- | -------------
-![alt text](icons/raspberry.png) | RPi | Osrednja enota v zunanjem ohišju, kot video server in MQTT client (pošiljanje signala, da nekdo zvoni)
+I | Tehnologija | Opis
+------------ | ------------- | -------------
 ![alt text](icons/flutter.png) | Flutter | Flutter aplikacija za pametni telefon za enosmerno video in dvosmerno audio komunikacijo ter odpiranje vrat
+![alt text](icons/raspberry.png) | RPi | Osrednja enota v zunanjem ohišju, kot video server in MQTT client (pošiljanje signala, da nekdo zvoni)
 ![alt text](icons/webrtc.png) | WebRTC | Za predvajanje vido in audio strema. UV4L server na RPi
+![alt text](icons/python.png) | Python | Servis, ki teče na RPI, bere fizični gumb za zunanji zvonec preko GPIO ter pošilje MQTT obvestila ob zvonenju
 ![alt text](icons/mqtt.png) | MQTT | Za dogodke - zvonenje in odpiranje vrat
 ![alt text](icons/arduino.png) | ESP8266|Arduino | Za notranji zvonec (chime) kot MQTT Subscriber
