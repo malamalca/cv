@@ -11,6 +11,7 @@ Projekt je nastal zaradi potrebe po domačem domofonu. Trg ponuja sorazmerno sla
 ![alt Doorbell](doorbell.jpg) ![alt Flutter App](doorbell2.png) ![alt Flutter App](doorbell3.png)
 
 
+
 ## REGISTRACIJA DELOVNEGA ČASA EVIDENTIK ##
 ![alt PHP](icons/php.png) ![alt RPI](icons/raspberry.png) ![alt WEBRTC](icons/lazarus.png)
 
@@ -19,3 +20,14 @@ Registratorji so fizične konzole na osnovi RaspberryPi, ki pošiljajo podatke n
 Aplikacija na RPI je bila narejena v Lazarusu oz. FreePascalu, z možnost cross-platform compiliranja tudi na Windows, Android,...
 
 ![alt EvidentikConsole](evidentik1.jpg) ![alt EvidentikWeb](evidentik2.png)
+
+
+
+## ARHINT INTRANET SISTEM ##
+![alt PHP](icons/php.png) ![alt WEBRTC](icons/lazarus.png) ![alt Exchange](icons/exchange.png) ![alt IdToken](icons/idtoken.png)
+
+Intranet sistem za CRM, izdane račune, potne naloge, opravila, dokumentni sistem in finančno poslovanje podjetja.
+Portal vključuje MS Exchange server sinhronizacijo na osnovi projekta Sinchroton, ki skrbi za sinhronizacijo kontaktov in opravil s pametnimi telefoni.
+Z vidika finančnega poslovanja vključuje PHP davčno potrjevanje, ESLOG elektronsko podpisovanje, izvoz ESLOG 1.6 in 2.0 in izvoz SEPA XML.
+Posebnost poslovanja z računi je, da je vključeno podpisovanje računov s client certifikatom v brskalniku s komponento idTokenSigning.
+Dokumentno poslovanje vključuje skeniranje prejete pošte neposredno iz spletne strani preko Websocketov in lokalne aplikacije za skeniranje (websocket server) napisane v Lazarus.
