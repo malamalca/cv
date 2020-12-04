@@ -6,7 +6,8 @@ Projekti so navedeni v približnem vrstnem redu, od najbolj svežega do najstare
 ## PAMETNI DOMOFON ##
 ![alt Flutter](icons/flutter.png) ![alt MQTT](icons/mqtt.png) ![alt Arduino](icons/arduino.png) ![alt RPI](icons/raspberry.png) ![alt WEBRTC](icons/webrtc.png)
 
-Projekt je nastal zaradi potrebe po domačem domofonu. Trg ponuja sorazmerno slabo izbiro, kar pa približno ustreza zahtevam pa ima sorazmerno visoko ceno (npr. Doorbird ca 700€). Zaradi tega je nastal kompleten produkt, ki zelo dobro opravlja svojo funkcijo.
+Projekt je nastal zaradi potrebe po domačem domofonu. Trg ponuja sorazmerno slabo izbiro, kar pa približno ustreza zahtevam pa ima sorazmerno visoko ceno (npr. Doorbird ca 700€). Zaradi tega je nastal kompleten produkt, ki zelo dobro opravlja svojo funkcijo. 
+Osnovni HW je na bazi RPI in UV4L video in audio streaminga ter motion-a za prepoznavo gibanja. Client side je za pametne telefone napisan v Flutter-ju.
  
 ![alt Doorbell](doorbell.jpg) ![alt Flutter App](doorbell2.png) ![alt Flutter App](doorbell3.png)
 
@@ -33,3 +34,12 @@ Posebnost poslovanja z računi je, da je vključeno podpisovanje računov s clie
 Dokumentno poslovanje vključuje skeniranje prejete pošte neposredno iz spletne strani preko Websocketov in lokalne aplikacije za skeniranje (websocket server) napisane v Lazarus.  
 
 ![alt Arhint1](arhint2.png) ![alt Arhint2](arhint4.png)
+
+
+## PAMETNE ŽALUZIJE BLINDSBOARDv3 ##
+![alt Arduino](icons/arduino.png) ![alt Raspberry](icons/rpi.png) ![alt Raspberry](icons/homekit.png)
+
+Sistem za upravljanje domačih žaluzij je narejen na osnovi Arduino kontrolerja in lastne PCB plošče ter pameti za upravljanje.  
+Arduino preko serijskega vmesnika komunicira z RPI, kjer je postavljen Homebridge, ki služi za posrednika med Apple Homekit tehnologijo in HW.
+
+![alt Arhint1](blindsboard1.jpg) ![alt Arhint2](blindsboard2.png)
