@@ -48,7 +48,12 @@ S tem lahko uporabnik upravlja želuzje preko aplikacije "Home" v Apple okolju
 
 ![alt Arhint1](blindsboard1.jpg) ![alt Arhint2](blindsboard2.png)
   
-  
+## HRUP13 - PRIPOMOČEK ZA IZRAČUN ZAŠČITE PRED HRUPOM ##
+
+Hrup13 je Excel pripomoček namenjen pripravi izračuna zaščite pred hrupom za projektante, arhitekte,...  
+Sistem je komercialen in ima ca 300 plačljivih uporabnikov!  
+https://www.arhim.si/s/elaborat-zascite-pred-hrupom/
+
   
 ## HOBY :: HOTELSKI SISTEM eHotelDesk ##
 ![alt PHP](icons/php.png)
