@@ -32,4 +32,4 @@ Z vidika finančnega poslovanja vključuje PHP davčno potrjevanje, ESLOG elektr
 Posebnost poslovanja z računi je, da je vključeno podpisovanje računov s client certifikatom v brskalniku s komponento idTokenSigning.  
 Dokumentno poslovanje vključuje skeniranje prejete pošte neposredno iz spletne strani preko Websocketov in lokalne aplikacije za skeniranje (websocket server) napisane v Lazarus.  
 
-![alt Arhint1](arhint2.png) ![alt Arhint2](arhint3.png)
+![alt Arhint1](arhint2.png) ![alt Arhint2](arhint4.png)
