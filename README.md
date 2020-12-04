@@ -44,3 +44,18 @@ Arduino preko serijskega vmesnika komunicira z RPI, kjer je postavljen Homebridg
 S tem lahko uporabnik upravlja želuzje preko aplikacije "Home" v Apple okolju
 
 ![alt Arhint1](blindsboard1.jpg) ![alt Arhint2](blindsboard2.png)
+
+
+## HOBY :: HOTELSKI SISTEM eHotelDesk ##
+![alt PHP](icons/php.png)
+Kopletni sistem za rezervacije gostov. Opensource na naslovu https://github.com/malamalca/ehoteldesk
+
+![alt text](https://github.com/malamalca/ehoteldesk/raw/master/resources/screenshot.png)
+
+## HOBY :: DRUŽINSKO DREVO FAMIREE ##
+![alt PHP](icons/php.png)
+
+Projekt je nastal z željo, da se podatki iz družinskega drevesa prenesejo iz oblaka (Geni) v lokalno aplikacijo. Projekt je Opensource dosegljiv na https://github.com/malamalca/famiree
+
+
+![alt Famiree](https://github.com/malamalca/famiree/raw/master/example.png)
