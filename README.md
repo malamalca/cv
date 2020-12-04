@@ -50,12 +50,12 @@ S tem lahko uporabnik upravlja želuzje preko aplikacije "Home" v Apple okolju
 ![alt PHP](icons/php.png)
 Kopletni sistem za rezervacije gostov. Opensource na naslovu https://github.com/malamalca/ehoteldesk
 
-![alt text](https://github.com/malamalca/ehoteldesk/raw/master/resources/screenshot.png)
+<img src="https://github.com/malamalca/ehoteldesk/raw/master/resources/screenshot.png" alt="eHotelDesk" height="240">
+
 
 ## HOBY :: DRUŽINSKO DREVO FAMIREE ##
 ![alt PHP](icons/php.png)
 
 Projekt je nastal z željo, da se podatki iz družinskega drevesa prenesejo iz oblaka (Geni) v lokalno aplikacijo. Projekt je Opensource dosegljiv na https://github.com/malamalca/famiree
 
-
-![alt Famiree](https://github.com/malamalca/famiree/raw/master/example.png)
+<img src="https://github.com/malamalca/famiree/raw/master/example.png" alt="Famiree" height="240">
