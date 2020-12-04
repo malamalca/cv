@@ -1,6 +1,6 @@
 # CV #
 
-V dokumentu navajam IT projekte, ki sem jih v glavnem sproduciral sam. Pri nekaterih je šlo za sodelovanje z drugim podjetjem, tam je to izrecno navedeno.
+V dokumentu navajam IT projekte, ki sem jih v glavnem naredil sam. Pri nekaterih je šlo za sodelovanje z drugim podjetjem, tam je to izrecno navedeno.
 Projekti so navedeni v približnem vrstnem redu, od najbolj svežega do najstarejšega.  
 V elektronski obliki imam še kar nekaj manjših projektov, ki jih tukaj niti ne omenjam, jih pa bom poizkusil sčasoma dodati na seznam.  
 Če se vam zd kakšen od projektov zanimiv za nadaljni razvoj, me kontaktirajte na miha.nahtigal@gmail.com
@@ -11,7 +11,8 @@ V elektronski obliki imam še kar nekaj manjših projektov, ki jih tukaj niti ne
 ![alt Flutter](icons/flutter.png) ![alt MQTT](icons/mqtt.png) ![alt Arduino](icons/arduino.png) ![alt RPI](icons/raspberry.png) ![alt WEBRTC](icons/webrtc.png)
 
 Projekt je nastal zaradi potrebe po domačem domofonu. Trg ponuja sorazmerno slabo izbiro, kar pa približno ustreza zahtevam pa ima sorazmerno visoko ceno (npr. Doorbird ca 700€). Zaradi tega je nastal kompleten produkt, ki zelo dobro opravlja svojo funkcijo. 
-Osnovni HW je na bazi RPI in UV4L video in audio streaminga ter motion-a za prepoznavo gibanja. Client side je za pametne telefone napisan v Flutter-ju.
+Osnovni HW je na bazi RPI in UV4L video in audio streaminga ter motion-a za prepoznavo gibanja. Client side je za pametne telefone napisan v Flutter-ju.  
+Podrobnosti na [strani z opisom sistema](doorbell.md)
  
 ![alt Doorbell](doorbell.jpg) ![alt Flutter App](doorbell2.png) ![alt Flutter App](doorbell3.png)
 
@@ -55,6 +56,11 @@ S tem lahko uporabnik upravlja želuzje preko aplikacije "Home" v Apple okolju
 Hrup13 je Excel pripomoček namenjen pripravi izračuna zaščite pred hrupom za projektante, arhitekte,...  
 Sistem je komercialen in ima ca 300 plačljivih uporabnikov!  
 https://www.arhim.si/s/elaborat-zascite-pred-hrupom/
+
+## ARNES SSO, PHP EXTENSION IN KERBEROS AUTH ##
+
+Razvoj dodatka za dovecot email strežnik za Kerberos SSO avtentikacijo (uporablja se ga za šole pri dostopu do arnes emaila).  
+Razvoj PHP dodatka v C++ za Kerberos SSO avtentikacijo - za prijavo v email klienta Roundcube.
 
   
 ## HOBY :: HOTELSKI SISTEM eHotelDesk ##
