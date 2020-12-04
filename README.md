@@ -2,7 +2,9 @@
 
 V dokumentu navajam IT projekte, ki sem jih v glavnem sproduciral sam. Pri nekaterih je šlo za sodelovanje z drugim podjetjem, tam je to izrecno navedeno.
 Projekti so navedeni v približnem vrstnem redu, od najbolj svežega do najstarejšega.
-
+  
+  
+  
 ## PAMETNI DOMOFON ##
 ![alt Flutter](icons/flutter.png) ![alt MQTT](icons/mqtt.png) ![alt Arduino](icons/arduino.png) ![alt RPI](icons/raspberry.png) ![alt WEBRTC](icons/webrtc.png)
 
@@ -21,9 +23,9 @@ Registratorji so fizične konzole na osnovi RaspberryPi, ki pošiljajo podatke n
 Aplikacija na RPI je bila narejena v Lazarusu oz. FreePascalu, z možnost cross-platform compiliranja tudi na Windows, Android,...  
 
 ![alt EvidentikConsole](evidentik1.jpg) ![alt EvidentikWeb](evidentik2.png)
-
-
-
+  
+  
+  
 ## ARHINT INTRANET SISTEM ##
 ![alt PHP](icons/php.png) ![alt WEBRTC](icons/lazarus.png) ![alt Exchange](icons/exchange.png) ![alt IdToken](icons/idtoken.png)
 
@@ -34,8 +36,9 @@ Posebnost poslovanja z računi je, da je vključeno podpisovanje računov s clie
 Dokumentno poslovanje vključuje skeniranje prejete pošte neposredno iz spletne strani preko Websocketov in lokalne aplikacije za skeniranje (websocket server) napisane v Lazarus.  
 
 ![alt Arhint1](arhint2.png) ![alt Arhint2](arhint4.png)
-
-
+  
+  
+  
 ## PAMETNE ŽALUZIJE BLINDSBOARDv3 ##
 ![alt Arduino](icons/arduino.png) ![alt Raspberry](icons/raspberry.png) ![alt Raspberry](icons/homekit.png)
 
@@ -44,15 +47,17 @@ Arduino preko serijskega vmesnika komunicira z RPI, kjer je postavljen Homebridg
 S tem lahko uporabnik upravlja želuzje preko aplikacije "Home" v Apple okolju
 
 ![alt Arhint1](blindsboard1.jpg) ![alt Arhint2](blindsboard2.png)
-
-
+  
+  
+  
 ## HOBY :: HOTELSKI SISTEM eHotelDesk ##
 ![alt PHP](icons/php.png)
 Kopletni sistem za rezervacije gostov. Opensource na naslovu https://github.com/malamalca/ehoteldesk
 
 <img src="https://github.com/malamalca/ehoteldesk/raw/master/resources/screenshot.png" alt="eHotelDesk" height="240">
-
-
+  
+  
+  
 ## HOBY :: DRUŽINSKO DREVO FAMIREE ##
 ![alt PHP](icons/php.png)
 
