@@ -1,8 +1,10 @@
 # CV #
 
 V dokumentu navajam IT projekte, ki sem jih v glavnem sproduciral sam. Pri nekaterih je šlo za sodelovanje z drugim podjetjem, tam je to izrecno navedeno.
-Projekti so navedeni v približnem vrstnem redu, od najbolj svežega do najstarejšega.
-  
+Projekti so navedeni v približnem vrstnem redu, od najbolj svežega do najstarejšega.  
+V elektronski obliki imam še kar nekaj manjših projektov, ki jih tukaj niti ne omenjam, jih pa bom poizkusil sčasoma dodati na seznam.  
+Če se vam zd kakšen od projektov zanimiv za nadaljni razvoj, me kontaktirajte na miha.nahtigal@gmail.com
+
   
   
 ## PAMETNI DOMOFON ##
@@ -69,3 +71,18 @@ Kopletni sistem za rezervacije gostov. Opensource na naslovu https://github.com/
 Projekt je nastal z željo, da se podatki iz družinskega drevesa prenesejo iz oblaka (Geni) v lokalno aplikacijo. Projekt je Opensource dosegljiv na https://github.com/malamalca/famiree
 
 <img src="https://github.com/malamalca/famiree/raw/master/example.png" alt="Famiree" height="240">
+
+
+## HOBY :: OSTALO ##
+
+Ostali projekti, ki jih v tej točki samo naštejem so:
+* Elektronsko davčno podpisovanje narejeno v Pascalu, kot DLL knjižnica za uporabi v alternativnih programskih jezikih (Fortran, FoxPro,..)
+* GLS klient za pripravo nalepk za sisteme paketnega poslovanja
+* Madžarsko davčno potrjevanje
+* Klient za Pošto Slovenije za pripravo pošiljk paketnega poslovanje
+* Sistem za evidenco trenutne moči in porabe toplotne črpalke preko trofaznega pulznega števca
+* VSCode plugin za GDL programski jezik
+* Moneta, Valu klienti
+* Kartično poslovanje
+* ARCHICAD plugini v C++ za različne naročnike
+* ARCHICAD objekti za različne naročnike
