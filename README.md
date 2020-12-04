@@ -18,4 +18,4 @@ Projekt je izveden po naročilu stranke. Gre za celotno okolje za beleženje del
 Registratorji so fizične konzole na osnovi RaspberryPi, ki pošiljajo podatke na strežnik, kjer PHP aplikacija upravlja z izračuni, prikazi, izpisi, obračuni za plače.
 Aplikacija na RPI je bila narejena v Lazarusu oz. FreePascalu, z možnost cross-platform compiliranja tudi na Windows, Android,...
 
-![alt Doorbell](evidentik1.jpg) ![alt Flutter App](evidentik2.png) ![alt Flutter App](evidentik3.png)
+![alt EvidentikConsole](evidentik1.jpg) ![alt EvidentikWeb](evidentik2.png)
