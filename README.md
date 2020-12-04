@@ -8,4 +8,4 @@ Projekti so navedeni v približnem vrstnem redu, od najbolj svežega do najstare
 
 Projekt je nastal zaradi potrebe po domačem domofonu. Trg ponuja sorazmerno slabo izbiro, kar pa približno ustreza zahtevam pa ima sorazmerno visoko ceno (npr. Doorbird ca 700€). Zaradi tega je nastal kompleten produkt, ki zelo dobro opravlja svojo funkcijo.
 
-![alt Doorbell](icons/doorbell.png)
+![alt Doorbell](doorbell.jpg)
